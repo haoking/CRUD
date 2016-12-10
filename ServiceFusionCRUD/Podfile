@@ -1,0 +1,6 @@
+source 'https://github.com/CocoaPods/Specs.git'
+
+target "ServiceFusionCRUD" do
+platform :ios, '7.0'
+pod 'Masonry'
+end
